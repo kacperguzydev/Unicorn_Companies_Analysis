@@ -31,12 +31,12 @@ streamlit run dashboard.py
 
 ## 🚀 Screenshots
 - 🔮 Prediction Tab:
-
+![Prediction Tab](images/1.png)
 - 📊 Analysis: Unicorns per Country:
-
+![Unicorns per Country](images/2.png)
 - 💰 Analysis: Total Valuation per Country:
-
+![Total Valuation per Country](images/3.png)
 - 📉 Analysis: Average Valuation per Country:
-
+![Average Valuation per Country](images/4.png)
 - 📈 Analysis: KPIs Overview:
-  
+  ![KPIs Overview](images/5.png)
