@@ -1,0 +1,1540 @@
+country,region,valuation_billion,predicted_valuation
+China,Asia,220.0,4.602965317644023
+China,Asia,150.0,4.602965317644023
+United States,North America,125.0,3.3234311176210922
+India,Asia,100.0,5.260597024039385
+United States,North America,80.0,3.3234311176210922
+China,Asia,66.0,4.602965317644023
+United States,North America,65.0,3.3234311176210922
+India,Asia,58.0,5.260597024039385
+United Kingdom,Europe,45.0,4.1893554834167075
+United States,North America,43.0,3.3234311176210922
+United Kingdom,Europe,40.0,4.1893554834167075
+United States,North America,38.0,3.3234311176210922
+United States,North America,31.0,3.3234311176210922
+United States,North America,30.0,3.3234311176210922
+United States,North America,30.0,3.3234311176210922
+China,Asia,30.0,4.602965317644023
+Australia,Oceania,26.0,4.336743284493283
+United States,North America,25.0,3.3234311176210922
+United States,North America,24.0,3.3234311176210922
+United States,North America,23.0,3.3234311176210922
+India,Asia,22.0,5.260597024039385
+Indonesia,Asia,20.0,3.51537284937285
+United Kingdom,Europe,20.0,4.1893554834167075
+United States,North America,19.0,3.3234311176210922
+China,Asia,18.0,4.602965317644023
+United States,North America,18.0,3.3234311176210922
+China,Asia,17.0,4.602965317644023
+China,Asia,17.0,4.602965317644023
+Turkey,Europe,17.0,8.852880952380952
+China,Asia,16.0,4.602965317644023
+United States,North America,15.0,3.3234311176210922
+United States,North America,15.0,3.3234311176210922
+United Kingdom,Europe,15.0,4.1893554834167075
+China,Asia,15.0,4.602965317644023
+United States,North America,15.0,3.3234311176210922
+China,Asia,15.0,4.602965317644023
+China,Asia,14.0,4.602965317644023
+United States,North America,14.0,3.3234311176210922
+United States,North America,14.0,3.3234311176210922
+United States,North America,14.0,3.3234311176210922
+United States,North America,13.0,3.3234311176210922
+United States,North America,13.0,3.3234311176210922
+United States,North America,13.0,3.3234311176210922
+United States,North America,13.0,3.3234311176210922
+Germany,Europe,13.0,2.5008797200938875
+United States,North America,13.0,3.3234311176210922
+United States,North America,13.0,3.3234311176210922
+India,Asia,12.0,5.260597024039385
+United States,North America,12.0,3.3234311176210922
+United States,North America,12.0,3.3234311176210922
+China,Asia,12.0,4.602965317644023
+Israel,Asia,12.0,2.0168664055395227
+United States,North America,12.0,3.3234311176210922
+Sweden,Europe,12.0,4.022603174603175
+United States,North America,12.0,3.3234311176210922
+South Korea,Asia,12.0,3.231225778035847
+United Kingdom,Europe,12.0,4.1893554834167075
+India,Asia,11.0,5.260597024039385
+United States,North America,10.0,3.3234311176210922
+United States,North America,10.0,3.3234311176210922
+Seychelles,Africa,10.0,5.476333333333332
+United States,North America,10.0,3.3234311176210922
+United States,North America,10.0,3.3234311176210922
+China,Asia,10.0,4.602965317644023
+China,Asia,10.0,4.602965317644023
+United States,North America,10.0,3.3234311176210922
+United States,North America,10.0,3.3234311176210922
+Hong Kong,Asia,10.0,1.8109669497169492
+India,Asia,10.0,5.260597024039385
+United States,North America,10.0,3.3234311176210922
+United States,North America,10.0,3.3234311176210922
+United States,North America,9.0,3.3234311176210922
+India,Asia,9.0,5.260597024039385
+Germany,Europe,9.0,2.5008797200938875
+United States,North America,9.0,3.3234311176210922
+South Korea,Asia,9.0,3.231225778035847
+United States,North America,9.0,3.3234311176210922
+United States,North America,9.0,3.3234311176210922
+China,Asia,9.0,4.602965317644023
+United Kingdom,Europe,9.0,4.1893554834167075
+India,Asia,9.0,5.260597024039385
+China,Asia,9.0,4.602965317644023
+Mexico,North America,9.0,2.674554945054945
+United States,North America,9.0,3.3234311176210922
+United States,North America,9.0,3.3234311176210922
+Germany,Europe,8.0,2.5008797200938875
+Estonia,Europe,8.0,6.152731900283624
+United States,North America,8.0,3.3234311176210922
+Vietnam,Asia,8.0,3.331424741924742
+China,Asia,8.0,4.602965317644023
+United States,North America,8.0,3.3234311176210922
+United States,North America,8.0,3.3234311176210922
+United Kingdom,Europe,8.0,4.1893554834167075
+United States,North America,8.0,3.3234311176210922
+Israel,Asia,8.0,2.0168664055395227
+India,Asia,8.0,5.260597024039385
+United States,North America,8.0,3.3234311176210922
+United Kingdom,Europe,8.0,4.1893554834167075
+China,Asia,8.0,4.602965317644023
+Norway,Europe,8.0,1.0379310344827586
+United States,North America,8.0,3.3234311176210922
+United States,North America,8.0,3.3234311176210922
+China,Asia,8.0,4.602965317644023
+China,Asia,8.0,4.602965317644023
+Canada,North America,8.0,2.7898013380478135
+United States,North America,8.0,3.3234311176210922
+United States,North America,7.0,3.3234311176210922
+United States,North America,7.0,3.3234311176210922
+Japan,Asia,7.0,2.1215076781233893
+United States,North America,7.0,3.3234311176210922
+United Kingdom,Europe,7.0,4.1893554834167075
+United States,North America,7.0,3.3234311176210922
+United States,North America,7.0,3.3234311176210922
+China,Asia,7.0,4.602965317644023
+United Kingdom,Europe,7.0,4.1893554834167075
+United States,North America,7.0,3.3234311176210922
+United States,North America,7.0,3.3234311176210922
+United States,North America,7.0,3.3234311176210922
+United States,North America,7.0,3.3234311176210922
+South Korea,Asia,7.0,3.231225778035847
+Canada,North America,7.0,2.7898013380478135
+United States,North America,7.0,3.3234311176210922
+China,Asia,7.0,4.602965317644023
+Sweden,Europe,7.0,4.022603174603175
+India,Asia,7.0,5.260597024039385
+China,Asia,7.0,4.602965317644023
+India,Asia,7.0,5.260597024039385
+India,Asia,7.0,5.260597024039385
+The Netherlands,Europe,6.0,1.8396908646908654
+India,Asia,6.0,5.260597024039385
+France,Europe,6.0,2.2274079527434645
+China,Asia,6.0,4.602965317644023
+United States,North America,6.0,3.3234311176210922
+United States,North America,6.0,3.3234311176210922
+United States,North America,6.0,3.3234311176210922
+China,Asia,6.0,4.602965317644023
+United States,North America,6.0,3.3234311176210922
+France,Europe,6.0,2.2274079527434645
+China,Asia,6.0,4.602965317644023
+China,Asia,6.0,4.602965317644023
+China,Asia,6.0,4.602965317644023
+United States,North America,6.0,3.3234311176210922
+China,Asia,6.0,4.602965317644023
+India,Asia,6.0,5.260597024039385
+United States,North America,6.0,3.3234311176210922
+United States,North America,6.0,3.3234311176210922
+United States,North America,6.0,3.3234311176210922
+Hong Kong,Asia,6.0,1.8109669497169492
+United States,North America,6.0,3.3234311176210922
+United States,North America,6.0,3.3234311176210922
+United States,North America,6.0,3.3234311176210922
+United States,North America,6.0,3.3234311176210922
+France,Europe,6.0,2.2274079527434645
+Finland,Europe,6.0,4.194919191919192
+United States,North America,6.0,3.3234311176210922
+United States,North America,6.0,3.3234311176210922
+France,Europe,6.0,2.2274079527434645
+China,Asia,6.0,4.602965317644023
+Germany,Europe,6.0,2.5008797200938875
+Australia,Oceania,6.0,4.336743284493283
+Canada,North America,6.0,2.7898013380478135
+Germany,Europe,5.0,2.5008797200938875
+Germany,Europe,5.0,2.5008797200938875
+United States,North America,5.0,3.3234311176210922
+United States,North America,5.0,3.3234311176210922
+Colombia,South America,5.0,2.9576183317456537
+Belgium,Europe,5.0,2.8950000000000005
+United States,North America,5.0,3.3234311176210922
+China,Asia,5.0,4.602965317644023
+United States,North America,5.0,3.3234311176210922
+South Africa,Africa,5.0,3.9504907161803713
+United Kingdom,Europe,5.0,4.1893554834167075
+Brazil,South America,5.0,2.593260983206467
+China,Asia,5.0,4.602965317644023
+United States,North America,5.0,3.3234311176210922
+United States,North America,5.0,3.3234311176210922
+United States,North America,5.0,3.3234311176210922
+India,Asia,5.0,5.260597024039385
+China,Asia,5.0,4.602965317644023
+Brazil,South America,5.0,2.593260983206467
+Canada,North America,5.0,2.7898013380478135
+India,Asia,5.0,5.260597024039385
+United States,North America,5.0,3.3234311176210922
+India,Asia,5.0,5.260597024039385
+Israel,Asia,5.0,2.0168664055395227
+United Kingdom,Europe,5.0,4.1893554834167075
+China,Asia,5.0,4.602965317644023
+China,Asia,5.0,4.602965317644023
+China,Asia,5.0,4.602965317644023
+United States,North America,5.0,3.3234311176210922
+India,Asia,5.0,5.260597024039385
+Canada,North America,5.0,2.7898013380478135
+India,Asia,5.0,5.260597024039385
+United States,North America,5.0,3.3234311176210922
+India,Asia,5.0,5.260597024039385
+United States,North America,5.0,3.3234311176210922
+United States,North America,5.0,3.3234311176210922
+China,Asia,5.0,4.602965317644023
+Philippines,Asia,5.0,1.103606397418897
+United States,North America,5.0,3.3234311176210922
+United States,North America,5.0,3.3234311176210922
+Brazil,South America,5.0,2.593260983206467
+China,Asia,5.0,4.602965317644023
+France,Europe,5.0,2.2274079527434645
+United States,North America,5.0,3.3234311176210922
+United States,North America,5.0,3.3234311176210922
+Denmark,Europe,5.0,2.5743138528138525
+Switzerland,Europe,5.0,1.8871312853812854
+United States,North America,5.0,3.3234311176210922
+United States,North America,5.0,3.3234311176210922
+United States,North America,5.0,3.3234311176210922
+China,Asia,5.0,4.602965317644023
+United Kingdom,Europe,5.0,4.1893554834167075
+Germany,Europe,5.0,2.5008797200938875
+Lithuania,Europe,5.0,3.652289417479073
+Brazil,South America,5.0,2.593260983206467
+United States,North America,5.0,3.3234311176210922
+United States,North America,5.0,3.3234311176210922
+United States,North America,5.0,3.3234311176210922
+China,Asia,5.0,4.602965317644023
+China,Asia,5.0,4.602965317644023
+United States,North America,4.0,3.3234311176210922
+France,Europe,4.0,2.2274079527434645
+United States,North America,4.0,3.3234311176210922
+China,Asia,4.0,4.602965317644023
+China,Asia,4.0,4.602965317644023
+United States,North America,4.0,3.3234311176210922
+United States,North America,4.0,3.3234311176210922
+France,Europe,4.0,2.2274079527434645
+United States,North America,4.0,3.3234311176210922
+Japan,Asia,4.0,2.1215076781233893
+South Korea,Asia,4.0,3.231225778035847
+United States,North America,4.0,3.3234311176210922
+United States,North America,4.0,3.3234311176210922
+United States,North America,4.0,3.3234311176210922
+United States,North America,4.0,3.3234311176210922
+United States,North America,4.0,3.3234311176210922
+China,Asia,4.0,4.602965317644023
+Canada,North America,4.0,2.7898013380478135
+Austria,Europe,4.0,2.0502283674180224
+United States,North America,4.0,3.3234311176210922
+United States,North America,4.0,3.3234311176210922
+United Kingdom,Europe,4.0,4.1893554834167075
+United States,North America,4.0,3.3234311176210922
+Canada,North America,4.0,2.7898013380478135
+China,Asia,4.0,4.602965317644023
+United States,North America,4.0,3.3234311176210922
+United States,North America,4.0,3.3234311176210922
+United States,North America,4.0,3.3234311176210922
+United States,North America,4.0,3.3234311176210922
+United States,North America,4.0,3.3234311176210922
+United States,North America,4.0,3.3234311176210922
+United States,North America,4.0,3.3234311176210922
+United States,North America,4.0,3.3234311176210922
+Ireland,Europe,4.0,1.8647025197025195
+United States,North America,4.0,3.3234311176210922
+United States,North America,4.0,3.3234311176210922
+United States,North America,4.0,3.3234311176210922
+China,Asia,4.0,4.602965317644023
+United States,North America,4.0,3.3234311176210922
+United States,North America,4.0,3.3234311176210922
+United States,North America,4.0,3.3234311176210922
+China,Asia,4.0,4.602965317644023
+United States,North America,4.0,3.3234311176210922
+United States,North America,4.0,3.3234311176210922
+United States,North America,4.0,3.3234311176210922
+United States,North America,4.0,3.3234311176210922
+United States,North America,4.0,3.3234311176210922
+United States,North America,4.0,3.3234311176210922
+United States,North America,4.0,3.3234311176210922
+United States,North America,4.0,3.3234311176210922
+United States,North America,4.0,3.3234311176210922
+United States,North America,4.0,3.3234311176210922
+China,Asia,4.0,4.602965317644023
+China,Asia,4.0,4.602965317644023
+United States,North America,4.0,3.3234311176210922
+China,Asia,4.0,4.602965317644023
+United States,North America,4.0,3.3234311176210922
+Germany,Europe,4.0,2.5008797200938875
+China,Asia,4.0,4.602965317644023
+United States,North America,4.0,3.3234311176210922
+United States,North America,4.0,3.3234311176210922
+United States,North America,4.0,3.3234311176210922
+United States,North America,4.0,3.3234311176210922
+United States,North America,4.0,3.3234311176210922
+United States,North America,4.0,3.3234311176210922
+United States,North America,4.0,3.3234311176210922
+United States,North America,4.0,3.3234311176210922
+United States,North America,4.0,3.3234311176210922
+United States,North America,4.0,3.3234311176210922
+United States,North America,4.0,3.3234311176210922
+India,Asia,4.0,5.260597024039385
+United States,North America,4.0,3.3234311176210922
+United States,North America,4.0,3.3234311176210922
+United States,North America,4.0,3.3234311176210922
+United States,North America,4.0,3.3234311176210922
+United States,North America,4.0,3.3234311176210922
+Germany,Europe,4.0,2.5008797200938875
+United States,North America,4.0,3.3234311176210922
+United States,North America,4.0,3.3234311176210922
+United States,North America,4.0,3.3234311176210922
+United States,North America,4.0,3.3234311176210922
+United States,North America,4.0,3.3234311176210922
+France,Europe,4.0,2.2274079527434645
+United States,North America,4.0,3.3234311176210922
+Canada,North America,4.0,2.7898013380478135
+United States,North America,4.0,3.3234311176210922
+India,Asia,4.0,5.260597024039385
+Liechtenstein,Europe,4.0,3.1226648250172713
+United States,North America,4.0,3.3234311176210922
+United States,North America,4.0,3.3234311176210922
+India,Asia,3.0,5.260597024039385
+China,Asia,3.0,4.602965317644023
+Austria,Europe,3.0,2.0502283674180224
+United States,North America,3.0,3.3234311176210922
+United States,North America,3.0,3.3234311176210922
+India,Asia,3.0,5.260597024039385
+China,Asia,3.0,4.602965317644023
+United States,North America,3.0,3.3234311176210922
+South Korea,Asia,3.0,3.231225778035847
+United States,North America,3.0,3.3234311176210922
+China,Asia,3.0,4.602965317644023
+United Kingdom,Europe,3.0,4.1893554834167075
+China,Asia,3.0,4.602965317644023
+United States,North America,3.0,3.3234311176210922
+China,Asia,3.0,4.602965317644023
+United States,North America,3.0,3.3234311176210922
+United States,North America,3.0,3.3234311176210922
+United States,North America,3.0,3.3234311176210922
+China,Asia,3.0,4.602965317644023
+China,Asia,3.0,4.602965317644023
+China,Asia,3.0,4.602965317644023
+China,Asia,3.0,4.602965317644023
+United States,North America,3.0,3.3234311176210922
+United States,North America,3.0,3.3234311176210922
+United States,North America,3.0,3.3234311176210922
+China,Asia,3.0,4.602965317644023
+China,Asia,3.0,4.602965317644023
+China,Asia,3.0,4.602965317644023
+Finland,Europe,3.0,4.194919191919192
+India,Asia,3.0,5.260597024039385
+United States,North America,3.0,3.3234311176210922
+Canada,North America,3.0,2.7898013380478135
+United States,North America,3.0,3.3234311176210922
+United States,North America,3.0,3.3234311176210922
+United States,North America,3.0,3.3234311176210922
+United States,North America,3.0,3.3234311176210922
+United States,North America,3.0,3.3234311176210922
+United States,North America,3.0,3.3234311176210922
+Belgium,Europe,3.0,2.8950000000000005
+United States,North America,3.0,3.3234311176210922
+Brazil,South America,3.0,2.593260983206467
+China,Asia,3.0,4.602965317644023
+Hong Kong,Asia,3.0,1.8109669497169492
+United States,North America,3.0,3.3234311176210922
+Germany,Europe,3.0,2.5008797200938875
+United States,North America,3.0,3.3234311176210922
+United States,North America,3.0,3.3234311176210922
+The Netherlands,Europe,3.0,1.8396908646908654
+United States,North America,3.0,3.3234311176210922
+United States,North America,3.0,3.3234311176210922
+United States,North America,3.0,3.3234311176210922
+Germany,Europe,3.0,2.5008797200938875
+United States,North America,3.0,3.3234311176210922
+United States,North America,3.0,3.3234311176210922
+United States,North America,3.0,3.3234311176210922
+United States,North America,3.0,3.3234311176210922
+Brazil,South America,3.0,2.593260983206467
+United States,North America,3.0,3.3234311176210922
+Germany,Europe,3.0,2.5008797200938875
+India,Asia,3.0,5.260597024039385
+United States,North America,3.0,3.3234311176210922
+China,Asia,3.0,4.602965317644023
+United Kingdom,Europe,3.0,4.1893554834167075
+United States,North America,3.0,3.3234311176210922
+India,Asia,3.0,5.260597024039385
+United States,North America,3.0,3.3234311176210922
+China,Asia,3.0,4.602965317644023
+China,Asia,3.0,4.602965317644023
+United States,North America,3.0,3.3234311176210922
+China,Asia,3.0,4.602965317644023
+United States,North America,3.0,3.3234311176210922
+China,Asia,3.0,4.602965317644023
+United States,North America,3.0,3.3234311176210922
+China,Asia,3.0,4.602965317644023
+Singapore,Asia,3.0,1.722848486608963
+China,Asia,3.0,4.602965317644023
+United States,North America,3.0,3.3234311176210922
+Israel,Asia,3.0,2.0168664055395227
+United States,North America,3.0,3.3234311176210922
+Lithuania,Europe,3.0,3.652289417479073
+Canada,North America,3.0,2.7898013380478135
+United States,North America,3.0,3.3234311176210922
+Canada,North America,3.0,2.7898013380478135
+United States,North America,3.0,3.3234311176210922
+United States,North America,3.0,3.3234311176210922
+United States,North America,3.0,3.3234311176210922
+United States,North America,3.0,3.3234311176210922
+United States,North America,3.0,3.3234311176210922
+United Kingdom,Europe,3.0,4.1893554834167075
+South Korea,Asia,3.0,3.231225778035847
+United Kingdom,Europe,3.0,4.1893554834167075
+China,Asia,3.0,4.602965317644023
+China,Asia,3.0,4.602965317644023
+China,Asia,3.0,4.602965317644023
+China,Asia,3.0,4.602965317644023
+China,Asia,3.0,4.602965317644023
+United States,North America,3.0,3.3234311176210922
+Brazil,South America,3.0,2.593260983206467
+China,Asia,3.0,4.602965317644023
+United States,North America,3.0,3.3234311176210922
+India,Asia,3.0,5.260597024039385
+United States,North America,3.0,3.3234311176210922
+United States,North America,3.0,3.3234311176210922
+China,Asia,3.0,4.602965317644023
+China,Asia,3.0,4.602965317644023
+India,Asia,3.0,5.260597024039385
+United Kingdom,Europe,3.0,4.1893554834167075
+India,Asia,3.0,5.260597024039385
+United States,North America,3.0,3.3234311176210922
+United States,North America,3.0,3.3234311176210922
+South Korea,Asia,3.0,3.231225778035847
+Japan,Asia,3.0,2.1215076781233893
+China,Asia,3.0,4.602965317644023
+Indonesia,Asia,3.0,3.51537284937285
+United States,North America,3.0,3.3234311176210922
+United States,North America,3.0,3.3234311176210922
+Turkey,Europe,3.0,8.852880952380952
+United States,North America,3.0,3.3234311176210922
+United States,North America,3.0,3.3234311176210922
+Israel,Asia,3.0,2.0168664055395227
+United Kingdom,Europe,3.0,4.1893554834167075
+South Korea,Asia,3.0,3.231225778035847
+The Netherlands,Europe,3.0,1.8396908646908654
+United States,North America,3.0,3.3234311176210922
+South Korea,Asia,3.0,3.231225778035847
+United States,North America,3.0,3.3234311176210922
+The Netherlands,Europe,3.0,1.8396908646908654
+United States,North America,3.0,3.3234311176210922
+United States,North America,3.0,3.3234311176210922
+United States,North America,3.0,3.3234311176210922
+United States,North America,3.0,3.3234311176210922
+United States,North America,3.0,3.3234311176210922
+United States,North America,3.0,3.3234311176210922
+China,Asia,3.0,4.602965317644023
+Brazil,South America,3.0,2.593260983206467
+Singapore,Asia,3.0,1.722848486608963
+France,Europe,3.0,2.2274079527434645
+Italy,Europe,3.0,1.6011811923708477
+Finland,Europe,3.0,4.194919191919192
+China,Asia,3.0,4.602965317644023
+China,Asia,3.0,4.602965317644023
+United States,North America,3.0,3.3234311176210922
+United States,North America,3.0,3.3234311176210922
+Australia,Oceania,3.0,4.336743284493283
+United States,North America,3.0,3.3234311176210922
+United States,North America,3.0,3.3234311176210922
+United States,North America,3.0,3.3234311176210922
+United States,North America,3.0,3.3234311176210922
+India,Asia,3.0,5.260597024039385
+United States,North America,3.0,3.3234311176210922
+India,Asia,3.0,5.260597024039385
+United States,North America,3.0,3.3234311176210922
+United States,North America,3.0,3.3234311176210922
+United States,North America,3.0,3.3234311176210922
+Cayman Islands,North America,3.0,2.7716424998216853
+China,Asia,3.0,4.602965317644023
+Israel,Asia,3.0,2.0168664055395227
+Israel,Asia,3.0,2.0168664055395227
+United States,North America,3.0,3.3234311176210922
+United States,North America,3.0,3.3234311176210922
+China,Asia,3.0,4.602965317644023
+United States,North America,3.0,3.3234311176210922
+China,Asia,3.0,4.602965317644023
+Germany,Europe,2.0,2.5008797200938875
+Argentina,South America,2.0,2.031083510542792
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+China,Asia,2.0,4.602965317644023
+Singapore,Asia,2.0,1.722848486608963
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United Kingdom,Europe,2.0,4.1893554834167075
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+India,Asia,2.0,5.260597024039385
+United Kingdom,Europe,2.0,4.1893554834167075
+China,Asia,2.0,4.602965317644023
+Australia,Oceania,2.0,4.336743284493283
+Germany,Europe,2.0,2.5008797200938875
+China,Asia,2.0,4.602965317644023
+Spain,Europe,2.0,1.298095238095238
+United Kingdom,Europe,2.0,4.1893554834167075
+Australia,Oceania,2.0,4.336743284493283
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+India,Asia,2.0,5.260597024039385
+Singapore,Asia,2.0,1.722848486608963
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+India,Asia,2.0,5.260597024039385
+China,Asia,2.0,4.602965317644023
+United States,North America,2.0,3.3234311176210922
+China,Asia,2.0,4.602965317644023
+United States,North America,2.0,3.3234311176210922
+Mexico,North America,2.0,2.674554945054945
+United States,North America,2.0,3.3234311176210922
+China,Asia,2.0,4.602965317644023
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+Germany,Europe,2.0,2.5008797200938875
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+Ireland,Europe,2.0,1.8647025197025195
+China,Asia,2.0,4.602965317644023
+United States,North America,2.0,3.3234311176210922
+China,Asia,2.0,4.602965317644023
+India,Asia,2.0,5.260597024039385
+China,Asia,2.0,4.602965317644023
+Brazil,South America,2.0,2.593260983206467
+Croatia,Europe,2.0,1.9137765829910982
+Brazil,South America,2.0,2.593260983206467
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+Germany,Europe,2.0,2.5008797200938875
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United Kingdom,Europe,2.0,4.1893554834167075
+India,Asia,2.0,5.260597024039385
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+China,Asia,2.0,4.602965317644023
+China,Asia,2.0,4.602965317644023
+China,Asia,2.0,4.602965317644023
+France,Europe,2.0,2.2274079527434645
+China,Asia,2.0,4.602965317644023
+France,Europe,2.0,2.2274079527434645
+South Korea,Asia,2.0,3.231225778035847
+Thailand,Asia,2.0,1.6268571428571423
+China,Asia,2.0,4.602965317644023
+Sweden,Europe,2.0,4.022603174603175
+United Kingdom,Europe,2.0,4.1893554834167075
+China,Asia,2.0,4.602965317644023
+United States,North America,2.0,3.3234311176210922
+Hong Kong,Asia,2.0,1.8109669497169492
+China,Asia,2.0,4.602965317644023
+United States,North America,2.0,3.3234311176210922
+United Kingdom,Europe,2.0,4.1893554834167075
+Switzerland,Europe,2.0,1.8871312853812854
+United States,North America,2.0,3.3234311176210922
+Germany,Europe,2.0,2.5008797200938875
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+India,Asia,2.0,5.260597024039385
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+Mexico,North America,2.0,2.674554945054945
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+Nigeria,Africa,2.0,1.9575
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+France,Europe,2.0,2.2274079527434645
+United States,North America,2.0,3.3234311176210922
+Greece,Europe,2.0,1.7486046007587708
+Singapore,Asia,2.0,1.722848486608963
+China,Asia,2.0,4.602965317644023
+China,Asia,2.0,4.602965317644023
+United States,North America,2.0,3.3234311176210922
+Luxembourg,Europe,2.0,1.879156947458672
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United Kingdom,Europe,2.0,4.1893554834167075
+United States,North America,2.0,3.3234311176210922
+China,Asia,2.0,4.602965317644023
+India,Asia,2.0,5.260597024039385
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+China,Asia,2.0,4.602965317644023
+United States,North America,2.0,3.3234311176210922
+Vietnam,Asia,2.0,3.331424741924742
+United States,North America,2.0,3.3234311176210922
+China,Asia,2.0,4.602965317644023
+China,Asia,2.0,4.602965317644023
+United States,North America,2.0,3.3234311176210922
+China,Asia,2.0,4.602965317644023
+United States,North America,2.0,3.3234311176210922
+China,Asia,2.0,4.602965317644023
+China,Asia,2.0,4.602965317644023
+United States,North America,2.0,3.3234311176210922
+China,Asia,2.0,4.602965317644023
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+Singapore,Asia,2.0,1.722848486608963
+Japan,Asia,2.0,2.1215076781233893
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+Brazil,South America,2.0,2.593260983206467
+China,Asia,2.0,4.602965317644023
+Singapore,Asia,2.0,1.722848486608963
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+Germany,Europe,2.0,2.5008797200938875
+United States,North America,2.0,3.3234311176210922
+China,Asia,2.0,4.602965317644023
+United States,North America,2.0,3.3234311176210922
+Japan,Asia,2.0,2.1215076781233893
+Denmark,Europe,2.0,2.5743138528138525
+Canada,North America,2.0,2.7898013380478135
+Germany,Europe,2.0,2.5008797200938875
+France,Europe,2.0,2.2274079527434645
+France,Europe,2.0,2.2274079527434645
+United States,North America,2.0,3.3234311176210922
+China,Asia,2.0,4.602965317644023
+Vietnam,Asia,2.0,3.331424741924742
+Japan,Asia,2.0,2.1215076781233893
+United States,North America,2.0,3.3234311176210922
+China,Asia,2.0,4.602965317644023
+China,Asia,2.0,4.602965317644023
+China,Asia,2.0,4.602965317644023
+Germany,Europe,2.0,2.5008797200938875
+United States,North America,2.0,3.3234311176210922
+India,Asia,2.0,5.260597024039385
+Switzerland,Europe,2.0,1.8871312853812854
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+China,Asia,2.0,4.602965317644023
+United States,North America,2.0,3.3234311176210922
+China,Asia,2.0,4.602965317644023
+Germany,Europe,2.0,2.5008797200938875
+China,Asia,2.0,4.602965317644023
+South Korea,Asia,2.0,3.231225778035847
+Singapore,Asia,2.0,1.722848486608963
+The Netherlands,Europe,2.0,1.8396908646908654
+United States,North America,2.0,3.3234311176210922
+China,Asia,2.0,4.602965317644023
+United States,North America,2.0,3.3234311176210922
+China,Asia,2.0,4.602965317644023
+India,Asia,2.0,5.260597024039385
+Israel,Asia,2.0,2.0168664055395227
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+Singapore,Asia,2.0,1.722848486608963
+United States,North America,2.0,3.3234311176210922
+Israel,Asia,2.0,2.0168664055395227
+India,Asia,2.0,5.260597024039385
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United Kingdom,Europe,2.0,4.1893554834167075
+Seychelles,Africa,2.0,5.476333333333332
+India,Asia,2.0,5.260597024039385
+United Kingdom,Europe,2.0,4.1893554834167075
+Ireland,Europe,2.0,1.8647025197025195
+Canada,North America,2.0,2.7898013380478135
+Indonesia,Asia,2.0,3.51537284937285
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+Canada,North America,2.0,2.7898013380478135
+United Kingdom,Europe,2.0,4.1893554834167075
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+Singapore,Asia,2.0,1.722848486608963
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+Malaysia,Asia,2.0,1.6448597493768675
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+Senegal,Africa,2.0,1.9602150269573135
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+Germany,Europe,2.0,2.5008797200938875
+France,Europe,2.0,2.2274079527434645
+United States,North America,2.0,3.3234311176210922
+China,Asia,2.0,4.602965317644023
+India,Asia,2.0,5.260597024039385
+Australia,Oceania,2.0,4.336743284493283
+Indonesia,Asia,2.0,3.51537284937285
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+China,Asia,2.0,4.602965317644023
+United States,North America,2.0,3.3234311176210922
+Ireland,Europe,2.0,1.8647025197025195
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+Bermuda,North America,2.0,2.5471127703481686
+Israel,Asia,2.0,2.0168664055395227
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+Singapore,Asia,2.0,1.722848486608963
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+India,Asia,2.0,5.260597024039385
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+South Korea,Asia,2.0,3.231225778035847
+United States,North America,2.0,3.3234311176210922
+China,Asia,2.0,4.602965317644023
+Germany,Europe,2.0,2.5008797200938875
+China,Asia,2.0,4.602965317644023
+United States,North America,2.0,3.3234311176210922
+China,Asia,2.0,4.602965317644023
+Canada,North America,2.0,2.7898013380478135
+China,Asia,2.0,4.602965317644023
+Japan,Asia,2.0,2.1215076781233893
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United Arab Emirates,Asia,2.0,1.3589207717569787
+China,Asia,2.0,4.602965317644023
+China,Asia,2.0,4.602965317644023
+Singapore,Asia,2.0,1.722848486608963
+China,Asia,2.0,4.602965317644023
+China,Asia,2.0,4.602965317644023
+Israel,Asia,2.0,2.0168664055395227
+India,Asia,2.0,5.260597024039385
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+Estonia,Europe,2.0,6.152731900283624
+United Kingdom,Europe,2.0,4.1893554834167075
+United States,North America,2.0,3.3234311176210922
+Brazil,South America,2.0,2.593260983206467
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+Norway,Europe,2.0,1.0379310344827586
+United States,North America,2.0,3.3234311176210922
+Switzerland,Europe,2.0,1.8871312853812854
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+Israel,Asia,2.0,2.0168664055395227
+United States,North America,2.0,3.3234311176210922
+China,Asia,2.0,4.602965317644023
+India,Asia,2.0,5.260597024039385
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+China,Asia,2.0,4.602965317644023
+Chile,South America,2.0,1.7086172248085538
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+Australia,Oceania,2.0,4.336743284493283
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+China,Asia,2.0,4.602965317644023
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+Ecuador,South America,2.0,2.0378821798256785
+India,Asia,2.0,5.260597024039385
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+Brazil,South America,2.0,2.593260983206467
+United States,North America,2.0,3.3234311176210922
+Israel,Asia,2.0,2.0168664055395227
+United Kingdom,Europe,2.0,4.1893554834167075
+United States,North America,2.0,3.3234311176210922
+United Arab Emirates,Asia,2.0,1.3589207717569787
+United States,North America,2.0,3.3234311176210922
+Canada,North America,2.0,2.7898013380478135
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+United States,North America,2.0,3.3234311176210922
+Thailand,Asia,2.0,1.6268571428571423
+United States,North America,2.0,3.3234311176210922
+Japan,Asia,2.0,2.1215076781233893
+India,Asia,2.0,5.260597024039385
+United States,North America,2.0,3.3234311176210922
+India,Asia,2.0,5.260597024039385
+United States,North America,2.0,3.3234311176210922
+Germany,Europe,1.0,2.5008797200938875
+Canada,North America,1.0,2.7898013380478135
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+India,Asia,1.0,5.260597024039385
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+Australia,Oceania,1.0,4.336743284493283
+China,Asia,1.0,4.602965317644023
+Denmark,Europe,1.0,2.5743138528138525
+China,Asia,1.0,4.602965317644023
+France,Europe,1.0,2.2274079527434645
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+France,Europe,1.0,2.2274079527434645
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+India,Asia,1.0,5.260597024039385
+United Kingdom,Europe,1.0,4.1893554834167075
+South Korea,Asia,1.0,3.231225778035847
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+Israel,Asia,1.0,2.0168664055395227
+Indonesia,Asia,1.0,3.51537284937285
+United States,North America,1.0,3.3234311176210922
+Germany,Europe,1.0,2.5008797200938875
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+India,Asia,1.0,5.260597024039385
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+Belgium,Europe,1.0,2.8950000000000005
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+Spain,Europe,1.0,1.298095238095238
+United Kingdom,Europe,1.0,4.1893554834167075
+India,Asia,1.0,5.260597024039385
+United States,North America,1.0,3.3234311176210922
+Sweden,Europe,1.0,4.022603174603175
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+Philippines,Asia,1.0,1.103606397418897
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+Israel,Asia,1.0,2.0168664055395227
+India,Asia,1.0,5.260597024039385
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+Singapore,Asia,1.0,1.722848486608963
+United States,North America,1.0,3.3234311176210922
+Spain,Europe,1.0,1.298095238095238
+United States,North America,1.0,3.3234311176210922
+China,Asia,1.0,4.602965317644023
+United Kingdom,Europe,1.0,4.1893554834167075
+Brazil,South America,1.0,2.593260983206467
+China,Asia,1.0,4.602965317644023
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+United States,North America,1.0,3.3234311176210922
+Australia,Oceania,1.0,4.336743284493283
+China,Asia,1.0,4.602965317644023
+United States,North America,1.0,3.3234311176210922
+South Korea,Asia,1.0,3.231225778035847
+South Korea,Asia,1.0,3.231225778035847
+Saudi Arabia,Asia,1.0,1.2245060618780663
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+China,Asia,1.0,4.602965317644023
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+Mexico,North America,1.0,2.674554945054945
+Singapore,Asia,1.0,1.722848486608963
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+China,Asia,1.0,4.602965317644023
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+Australia,Oceania,1.0,4.336743284493283
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+Israel,Asia,1.0,2.0168664055395227
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+India,Asia,1.0,5.260597024039385
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+China,Asia,1.0,4.602965317644023
+United States,North America,1.0,3.3234311176210922
+India,Asia,1.0,5.260597024039385
+India,Asia,1.0,5.260597024039385
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+United States,North America,1.0,3.3234311176210922
+India,Asia,1.0,5.260597024039385
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+Ireland,Europe,1.0,1.8647025197025195
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+China,Asia,1.0,4.602965317644023
+United States,North America,1.0,3.3234311176210922
+United Kingdom,Europe,1.0,4.1893554834167075
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+China,Asia,1.0,4.602965317644023
+United States,North America,1.0,3.3234311176210922
+China,Asia,1.0,4.602965317644023
+India,Asia,1.0,5.260597024039385
+United Kingdom,Europe,1.0,4.1893554834167075
+Japan,Asia,1.0,2.1215076781233893
+United States,North America,1.0,3.3234311176210922
+Japan,Asia,1.0,2.1215076781233893
+United Kingdom,Europe,1.0,4.1893554834167075
+India,Asia,1.0,5.260597024039385
+Japan,Asia,1.0,2.1215076781233893
+Ireland,Europe,1.0,1.8647025197025195
+United States,North America,1.0,3.3234311176210922
+China,Asia,1.0,4.602965317644023
+United States,North America,1.0,3.3234311176210922
+India,Asia,1.0,5.260597024039385
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+Germany,Europe,1.0,2.5008797200938875
+Canada,North America,1.0,2.7898013380478135
+India,Asia,1.0,5.260597024039385
+Germany,Europe,1.0,2.5008797200938875
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+Singapore,Asia,1.0,1.722848486608963
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+United States,North America,1.0,3.3234311176210922
+China,Asia,1.0,4.602965317644023
+United States,North America,1.0,3.3234311176210922
+Israel,Asia,1.0,2.0168664055395227
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+Mexico,North America,1.0,2.674554945054945
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+Germany,Europe,1.0,2.5008797200938875
+India,Asia,1.0,5.260597024039385
+United States,North America,1.0,3.3234311176210922
+Hong Kong,Asia,1.0,1.8109669497169492
+United States,North America,1.0,3.3234311176210922
+Mexico,North America,1.0,2.674554945054945
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+India,Asia,1.0,5.260597024039385
+China,Asia,1.0,4.602965317644023
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+India,Asia,1.0,5.260597024039385
+India,Asia,1.0,5.260597024039385
+China,Asia,1.0,4.602965317644023
+United States,North America,1.0,3.3234311176210922
+United Kingdom,Europe,1.0,4.1893554834167075
+Czech Republic,Europe,1.0,1.7486046007587708
+Singapore,Asia,1.0,1.722848486608963
+United Kingdom,Europe,1.0,4.1893554834167075
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+Ireland,Europe,1.0,1.8647025197025195
+France,Europe,1.0,2.2274079527434645
+China,Asia,1.0,4.602965317644023
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+China,Asia,1.0,4.602965317644023
+France,Europe,1.0,2.2274079527434645
+China,Asia,1.0,4.602965317644023
+Indonesia,Asia,1.0,3.51537284937285
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+United States,North America,1.0,3.3234311176210922
+South Korea,Asia,1.0,3.231225778035847
+Switzerland,Europe,1.0,1.8871312853812854
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+Germany,Europe,1.0,2.5008797200938875
+United States,North America,1.0,3.3234311176210922
+India,Asia,1.0,5.260597024039385
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+Singapore,Asia,1.0,1.722848486608963
+United States,North America,1.0,3.3234311176210922
+Canada,North America,1.0,2.7898013380478135
+United States,North America,1.0,3.3234311176210922
+United Kingdom,Europe,1.0,4.1893554834167075
+India,Asia,1.0,5.260597024039385
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+India,Asia,1.0,5.260597024039385
+China,Asia,1.0,4.602965317644023
+United States,North America,1.0,3.3234311176210922
+India,Asia,1.0,5.260597024039385
+United States,North America,1.0,3.3234311176210922
+United Kingdom,Europe,1.0,4.1893554834167075
+China,Asia,1.0,4.602965317644023
+Australia,Oceania,1.0,4.336743284493283
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+Mexico,North America,1.0,2.674554945054945
+Spain,Europe,1.0,1.298095238095238
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+India,Asia,1.0,5.260597024039385
+United States,North America,1.0,3.3234311176210922
+United Kingdom,Europe,1.0,4.1893554834167075
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+France,Europe,1.0,2.2274079527434645
+Israel,Asia,1.0,2.0168664055395227
+China,Asia,1.0,4.602965317644023
+Ireland,Europe,1.0,1.8647025197025195
+United States,North America,1.0,3.3234311176210922
+India,Asia,1.0,5.260597024039385
+France,Europe,1.0,2.2274079527434645
+United States,North America,1.0,3.3234311176210922
+United Kingdom,Europe,1.0,4.1893554834167075
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+China,Asia,1.0,4.602965317644023
+United Kingdom,Europe,1.0,4.1893554834167075
+United States,North America,1.0,3.3234311176210922
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+India,Asia,1.0,5.260597024039385
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+India,Asia,1.0,5.260597024039385
+China,Asia,1.0,4.602965317644023
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+China,Asia,1.0,4.602965317644023
+United States,North America,1.0,3.3234311176210922
+China,Asia,1.0,4.602965317644023
+India,Asia,1.0,5.260597024039385
+Austria,Europe,1.0,2.0502283674180224
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+Sweden,Europe,1.0,4.022603174603175
+India,Asia,1.0,5.260597024039385
+South Korea,Asia,1.0,3.231225778035847
+Norway,Europe,1.0,1.0379310344827586
+China,Asia,1.0,4.602965317644023
+India,Asia,1.0,5.260597024039385
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+Saudi Arabia,Asia,1.0,1.2245060618780663
+United States,North America,1.0,3.3234311176210922
+China,Asia,1.0,4.602965317644023
+Singapore,Asia,1.0,1.722848486608963
+United States,North America,1.0,3.3234311176210922
+The Netherlands,Europe,1.0,1.8396908646908654
+United States,North America,1.0,3.3234311176210922
+India,Asia,1.0,5.260597024039385
+The Netherlands,Europe,1.0,1.8396908646908654
+China,Asia,1.0,4.602965317644023
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+Uzbekistan,Asia,1.0,1.227602851968718
+United Kingdom,Europe,1.0,4.1893554834167075
+United States,North America,1.0,3.3234311176210922
+Brazil,South America,1.0,2.593260983206467
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+Israel,Asia,1.0,2.0168664055395227
+United Arab Emirates,Asia,1.0,1.3589207717569787
+Portugal,Europe,1.0,1.7486046007587708
+United States,North America,1.0,3.3234311176210922
+Israel,Asia,1.0,2.0168664055395227
+United States,North America,1.0,3.3234311176210922
+Germany,Europe,1.0,2.5008797200938875
+United States,North America,1.0,3.3234311176210922
+India,Asia,1.0,5.260597024039385
+India,Asia,1.0,5.260597024039385
+United States,North America,1.0,3.3234311176210922
+Singapore,Asia,1.0,1.722848486608963
+United Kingdom,Europe,1.0,4.1893554834167075
+India,Asia,1.0,5.260597024039385
+Germany,Europe,1.0,2.5008797200938875
+United States,North America,1.0,3.3234311176210922
+Germany,Europe,1.0,2.5008797200938875
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+United Kingdom,Europe,1.0,4.1893554834167075
+United States,North America,1.0,3.3234311176210922
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+China,Asia,1.0,4.602965317644023
+Germany,Europe,1.0,2.5008797200938875
+India,Asia,1.0,5.260597024039385
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+Norway,Europe,1.0,1.0379310344827586
+Hong Kong,Asia,1.0,1.8109669497169492
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United Kingdom,Europe,1.0,4.1893554834167075
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+Canada,North America,1.0,2.7898013380478135
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+Chile,South America,1.0,1.7086172248085538
+United States,North America,1.0,3.3234311176210922
+China,Asia,1.0,4.602965317644023
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+China,Asia,1.0,4.602965317644023
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+Hong Kong,Asia,1.0,1.8109669497169492
+United States,North America,1.0,3.3234311176210922
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+United States,North America,1.0,3.3234311176210922
+Germany,Europe,1.0,2.5008797200938875
+United States,North America,1.0,3.3234311176210922
+Philippines,Asia,1.0,1.103606397418897
+Germany,Europe,1.0,2.5008797200938875
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+Canada,North America,1.0,2.7898013380478135
+China,Asia,1.0,4.602965317644023
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+France,Europe,1.0,2.2274079527434645
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+Israel,Asia,1.0,2.0168664055395227
+France,Europe,1.0,2.2274079527434645
+China,Asia,1.0,4.602965317644023
+France,Europe,1.0,2.2274079527434645
+United States,North America,1.0,3.3234311176210922
+Brazil,South America,1.0,2.593260983206467
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+Canada,North America,1.0,2.7898013380478135
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+Vietnam,Asia,1.0,3.331424741924742
+Indonesia,Asia,1.0,3.51537284937285
+Mexico,North America,1.0,2.674554945054945
+China,Asia,1.0,4.602965317644023
+India,Asia,1.0,5.260597024039385
+United Kingdom,Europe,1.0,4.1893554834167075
+India,Asia,1.0,5.260597024039385
+Spain,Europe,1.0,1.298095238095238
+India,Asia,1.0,5.260597024039385
+United States,North America,1.0,3.3234311176210922
+United Kingdom,Europe,1.0,4.1893554834167075
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+Sweden,Europe,1.0,4.022603174603175
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+South Korea,Asia,1.0,3.231225778035847
+Norway,Europe,1.0,1.0379310344827586
+Colombia,South America,1.0,2.9576183317456537
+Japan,Asia,1.0,2.1215076781233893
+United States,North America,1.0,3.3234311176210922
+Ireland,Europe,1.0,1.8647025197025195
+United States,North America,1.0,3.3234311176210922
+China,Asia,1.0,4.602965317644023
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+France,Europe,1.0,2.2274079527434645
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+China,Asia,1.0,4.602965317644023
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+China,Asia,1.0,4.602965317644023
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+Thailand,Asia,1.0,1.6268571428571423
+Italy,Europe,1.0,1.6011811923708477
+United Kingdom,Europe,1.0,4.1893554834167075
+Canada,North America,1.0,2.7898013380478135
+United Kingdom,Europe,1.0,4.1893554834167075
+United States,North America,1.0,3.3234311176210922
+Japan,Asia,1.0,2.1215076781233893
+Egypt,Africa,1.0,1.4712150269573134
+United States,North America,1.0,3.3234311176210922
+China,Asia,1.0,4.602965317644023
+United States,North America,1.0,3.3234311176210922
+United Kingdom,Europe,1.0,4.1893554834167075
+United States,North America,1.0,3.3234311176210922
+China,Asia,1.0,4.602965317644023
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+Japan,Asia,1.0,2.1215076781233893
+Poland,Europe,1.0,1.3055042786670694
+United States,North America,1.0,3.3234311176210922
+United Kingdom,Europe,1.0,4.1893554834167075
+Germany,Europe,1.0,2.5008797200938875
+United States,North America,1.0,3.3234311176210922
+France,Europe,1.0,2.2274079527434645
+Cayman Islands,North America,1.0,2.7716424998216853
+China,Asia,1.0,4.602965317644023
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+Sweden,Europe,1.0,4.022603174603175
+France,Europe,1.0,2.2274079527434645
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+China,Asia,1.0,4.602965317644023
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+China,Asia,1.0,4.602965317644023
+United States,North America,1.0,3.3234311176210922
+China,Asia,1.0,4.602965317644023
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+France,Europe,1.0,2.2274079527434645
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+Switzerland,Europe,1.0,1.8871312853812854
+United States,North America,1.0,3.3234311176210922
+India,Asia,1.0,5.260597024039385
+United Kingdom,Europe,1.0,4.1893554834167075
+United Kingdom,Europe,1.0,4.1893554834167075
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United Kingdom,Europe,1.0,4.1893554834167075
+United Kingdom,Europe,1.0,4.1893554834167075
+United Kingdom,Europe,1.0,4.1893554834167075
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+Indonesia,Asia,1.0,3.51537284937285
+United States,North America,1.0,3.3234311176210922
+China,Asia,1.0,4.602965317644023
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+India,Asia,1.0,5.260597024039385
+United States,North America,1.0,3.3234311176210922
+Canada,North America,1.0,2.7898013380478135
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+France,Europe,1.0,2.2274079527434645
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+Brazil,South America,1.0,2.593260983206467
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+Indonesia,Asia,1.0,3.51537284937285
+United States,North America,1.0,3.3234311176210922
+Malta,Europe,1.0,1.2178430232558142
+Switzerland,Europe,1.0,1.8871312853812854
+Singapore,Asia,1.0,1.722848486608963
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+Canada,North America,1.0,2.7898013380478135
+United States,North America,1.0,3.3234311176210922
+The Netherlands,Europe,1.0,1.8396908646908654
+United States,North America,1.0,3.3234311176210922
+Israel,Asia,1.0,2.0168664055395227
+Mexico,North America,1.0,2.674554945054945
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+Chile,South America,1.0,1.7086172248085538
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+Brazil,South America,1.0,2.593260983206467
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+Canada,North America,1.0,2.7898013380478135
+Hong Kong,Asia,1.0,1.8109669497169492
+Hong Kong,Asia,1.0,1.8109669497169492
+Germany,Europe,1.0,2.5008797200938875
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+France,Europe,1.0,2.2274079527434645
+Indonesia,Asia,1.0,3.51537284937285
+Canada,North America,1.0,2.7898013380478135
+Brazil,South America,1.0,2.593260983206467
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+Germany,Europe,1.0,2.5008797200938875
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+China,Asia,1.0,4.602965317644023
+United States,North America,1.0,3.3234311176210922
+Finland,Europe,1.0,4.194919191919192
+Israel,Asia,1.0,2.0168664055395227
+United States,North America,1.0,3.3234311176210922
+United Kingdom,Europe,1.0,4.1893554834167075
+Canada,North America,1.0,2.7898013380478135
+United Arab Emirates,Asia,1.0,1.3589207717569787
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+Taiwan,Asia,1.0,1.3689051025465488
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+Hong Kong,Asia,1.0,1.8109669497169492
+United States,North America,1.0,3.3234311176210922
+Italy,Europe,1.0,1.6011811923708477
+South Korea,Asia,1.0,3.231225778035847
+Australia,Oceania,1.0,4.336743284493283
+China,Asia,1.0,4.602965317644023
+Brazil,South America,1.0,2.593260983206467
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+Germany,Europe,1.0,2.5008797200938875
+China,Asia,1.0,4.602965317644023
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+Israel,Asia,1.0,2.0168664055395227
+Germany,Europe,1.0,2.5008797200938875
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+United States,North America,1.0,3.3234311176210922
+China,Asia,1.0,4.602965317644023
+United Kingdom,Europe,1.0,4.1893554834167075
+China,Asia,1.0,4.602965317644023
+Switzerland,Europe,1.0,1.8871312853812854
+United States,North America,1.0,3.3234311176210922
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+Vietnam,Asia,1.0,3.331424741924742
+South Korea,Asia,1.0,3.231225778035847
+Nigeria,Africa,1.0,1.9575
+China,Asia,1.0,4.602965317644023
+United States,North America,1.0,3.3234311176210922
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+The Netherlands,Europe,1.0,1.8396908646908654
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+Japan,Asia,1.0,2.1215076781233893
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+United States,North America,1.0,3.3234311176210922
+United States,North America,1.0,3.3234311176210922
+China,Asia,1.0,4.602965317644023
+United States,North America,1.0,3.3234311176210922
+France,Europe,1.0,2.2274079527434645
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+United States,North America,1.0,3.3234311176210922
+China,Asia,1.0,4.602965317644023
+China,Asia,1.0,4.602965317644023
+United States,North America,0.0,3.3234311176210922
