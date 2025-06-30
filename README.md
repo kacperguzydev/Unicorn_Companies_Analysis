@@ -1,3 +1,8 @@
+# 🦄 Unicorn Companies Analysis Dashboard
+
+Analyze global unicorn companies, explore key metrics, and predict expected valuations using an interactive Streamlit dashboard.
+
+
 ## ✅ Tools Used
 
 - Python 3.11  
