@@ -29,7 +29,7 @@ pip install -r requirements.txt
 streamlit run dashboard.py
 
 
-##🚀 Screenshots
+## 🚀 Screenshots
 - 🔮 Prediction Tab:
 - 📊 Analysis: Unicorns per Country
 - 💰 Analysis: Total Valuation per Country
