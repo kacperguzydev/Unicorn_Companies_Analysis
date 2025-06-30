@@ -23,3 +23,15 @@ pip install -r requirements.txt
 - python models/load_to_db.py
 - python models/sql_analysis.py
 - python models/regression_prediction.py
+
+**4️⃣ Launch the dashboard locally:**
+
+streamlit run dashboard.py
+
+
+##🚀 Screenshots
+- 🔮 Prediction Tab:
+- 📊 Analysis: Unicorns per Country
+- 💰 Analysis: Total Valuation per Country
+- 📉 Analysis: Average Valuation per Country
+- 📈 Analysis: KPIs Overview
